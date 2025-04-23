@@ -9,9 +9,9 @@ This project uses AWS services to convert text files (such as blog posts, articl
 
 # Steps to build the project
 
-Step 1: Create two S3 Buckets (Source bucket: sourcebucket-pdf-to-audio, Destination bucket: destinationbucket-pdf-to-audio)
-Step 2: Create IAM policy
-Step 3: Create an IAM Role and attach pdf-to-audio-lambda-policy and AWSLambdaBasicExecutionRole Policies
-Step 4: Create and Configure the Lambda Function (Lambda Function Name: TextToSpeechFunction)
-Step 5: Configure S3 Event Notification
-Step 6: Testing
+# Step 1: Create two S3 Buckets (Source bucket: sourcebucket-pdf-to-audio, Destination bucket: destinationbucket-pdf-to-audio)
+# Step 2: Create IAM policy
+# Step 3: Create an IAM Role and attach pdf-to-audio-lambda-policy and AWSLambdaBasicExecutionRole Policies
+# Step 4: Create and Configure the Lambda Function (Lambda Function Name: TextToSpeechFunction)
+# Step 5: Configure S3 Event Notification
+# Step 6: Testing
